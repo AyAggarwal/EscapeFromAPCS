@@ -1,8 +1,10 @@
+package gamepkg;
 /*
  * Ayush Aggarwal, Arjun Mishra, Kedar Tallak
  * Sprite class houses images, with information for the position and dimensions of the image
  * 
  */
+import gamepkg.*;
 import java.awt.Image;
 import java.awt.Rectangle;
 import java.awt.geom.Rectangle2D;

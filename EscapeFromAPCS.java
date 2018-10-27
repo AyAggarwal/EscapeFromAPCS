@@ -1,8 +1,11 @@
+package gamepkg;
 /*
  * Ayush Aggarwal, Arjun Mishra, Kedar Tallak
  * EscapeFromAPCS.java is the main which constructs the Board and starts the game
  * 
  */
+
+import gamepkg.*;
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 

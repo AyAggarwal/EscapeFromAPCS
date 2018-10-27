@@ -1,8 +1,11 @@
+package gamepkg;
 /*
  * Ayush Aggarwal, Arjun Mishra, Kedar Tallak
  * teacher.java is just the walls, with a simple move method of moving down the screen
  * 
  */
+
+import gamepkg.*;
 public class Teacher extends Sprite{
 
 

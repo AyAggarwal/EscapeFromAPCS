@@ -1,9 +1,12 @@
+package gamepkg;
 /*
  * Ayush Aggarwal, Arjun Mishra, Kedar Tallak
  * Board.java is a JPanel object that houses the Sprites, as well as the timer object
  * which controls the movement of the game and collision logic.
  * 
  */
+
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -14,6 +17,7 @@ import java.awt.event.KeyListener;
 import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
+import gamepkg.*;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

@@ -1,9 +1,12 @@
+package gamepkg;
 /*
  * Ayush Aggarwal, Arjun Mishra, Kedar Tallak
  * Player.java holds the image and logic of the Sprite that is the character of the game
  * including its position, which changes by the user
  * 
  */
+
+import gamepkg.*;
 import java.awt.Image;
 import java.awt.Rectangle;
 import java.awt.event.KeyEvent;
